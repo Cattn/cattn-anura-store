@@ -1,0 +1,12 @@
+{
+    "name": "GBAv3",
+    "type": "auto",
+    "package": "cattn.gba",
+    "index": "index.html",
+    "icon": "favicon.png",
+    "wininfo":{
+        "title":"GBAv3",
+        "width":"1000px",
+        "height":"600px"
+  }
+}
