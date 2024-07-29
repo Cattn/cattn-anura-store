@@ -1,0 +1,10 @@
+{
+  "name": "Retro Player",
+  "icon": "favicon.png",
+  "summary": "GBAv3, ported to Anura",
+  "desc": "A retro game library manager, with a built in emulator.",
+  "package": "cattn.GBA",
+  "data": "app.zip",
+  "version": "1.0.0",
+  "category": "Utility"
+}
